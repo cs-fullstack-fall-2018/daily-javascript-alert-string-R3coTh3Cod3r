@@ -12,6 +12,6 @@ A. An alert box displaying the following: ```"Hello World", 11```
 
 B. An alert box displaying the following: ```myString, 11```
 
-C. An alert box displaying the following: ```Hello World```
+C. An alert box displaying the following: ```Hello World``` this is the answer
 
 D. An alert box displaying the following: ```11```
